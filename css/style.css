@@ -1,0 +1,123 @@
+body {
+  background-color: #2A3235;
+}
+
+.fotoperfil {
+  position: relative;
+  margin-top: 60px;
+  width: 140px;
+  height: 140px;
+  border-radius: 100%;
+}
+
+.botoes {
+  margin-left: 300px;
+  margin-right: 300px;
+  width: auto;
+  text-align: justify;
+  text-align: center;
+  padding-top: 5px;
+  text-decoration: none;
+  position: relative;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  font-size: large;
+  height: 55px;
+  background-color: #2A3235;
+  border-radius: 15px;
+  border: none;
+  transition: transform 0.2s;
+}
+
+.botoes:hover {
+  transform: scale(1.1);
+}
+
+.icones {
+  padding-top: 5px;
+  margin-left: 10px;
+  padding: 0px;
+  color: white;
+  text-decoration: none;
+}
+
+.text_link_whatsapp {
+  margin-left: 260px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.text_link_telegram {
+  margin-left: 265px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.text_link_facebook {
+  margin-left: 260px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.text_link_LinkedIn {
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+  margin-left: 265px;
+}
+
+.text_link_site {
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+  margin-left: 280px;
+}
+
+.text_link_port {
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+  margin-left: 260px;
+}
+
+.text_link_certificacoes {
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Lato", sans-serif;
+  color: white;
+  text-decoration: none;
+  margin-left: 250px;
+}
+
+.paragrafo {
+  color: #2A3235;
+  font-size: 12px;
+  font-family: "Lato", sans-serif;
+  font-weight: inherit;
+  margin-left: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
